@@ -1,4 +1,5 @@
-# OSCAR-MULTIDEVICE
+# oscar-md-v4
+
 
 <p align="center">
 
@@ -56,13 +57,13 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/Alpiii22/oscar-md-v4/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/Alpiii22/oscar-md-v4/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/Alpiii22/oscar-md-v4/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpiii22/OSCAR-MULTIDEVICE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpiii22/oscar-md-v4)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -76,8 +77,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
-$ cd OSCAR-MULTIDEVICE
+$ git clone https://github.com/Alpiii22/oscar-md-v4
+$ cd oscar-md-v4
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -119,8 +120,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
-cd OSCAR-MULTIDEVICE
+git clone https://github.com/Alpiii22/oscar-md-v4
+cd oscar-md-v4
 npm install
 npm update
 ```
@@ -135,8 +136,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
-cd OSCAR-MULTIDEVICE
+git clone https://github.com/Alpiii22/oscar-md-v4
+cd oscar-md-v4
 npm install
 npm update
 ```
